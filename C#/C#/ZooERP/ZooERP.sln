@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZooERP.Console", "ZooERP.Console\ZooERP.Console.csproj", "{9C57D774-2A05-42B1-A298-28D850FA4930}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZooERP.Core", "ZooERP.Core\ZooERP.Core.csproj", "{49FE8C83-45CD-42D7-9DA0-7DAD13AB9AB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZooERP.Tests", "ZooERP.Tests\ZooERP.Tests.csproj", "{3565A395-B84B-4869-8AC7-B38EB1EF2CF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C57D774-2A05-42B1-A298-28D850FA4930}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C57D774-2A05-42B1-A298-28D850FA4930}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C57D774-2A05-42B1-A298-28D850FA4930}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C57D774-2A05-42B1-A298-28D850FA4930}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49FE8C83-45CD-42D7-9DA0-7DAD13AB9AB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49FE8C83-45CD-42D7-9DA0-7DAD13AB9AB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49FE8C83-45CD-42D7-9DA0-7DAD13AB9AB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49FE8C83-45CD-42D7-9DA0-7DAD13AB9AB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3565A395-B84B-4869-8AC7-B38EB1EF2CF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3565A395-B84B-4869-8AC7-B38EB1EF2CF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3565A395-B84B-4869-8AC7-B38EB1EF2CF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3565A395-B84B-4869-8AC7-B38EB1EF2CF2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
